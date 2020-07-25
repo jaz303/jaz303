@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<div style='display: flex; flex-flow: row nowrap'>
-  <div>
-    Test
-  </div>
-  <div>
-    Test
-  </div>
-  <div>
-    Test
-  </div>
-</div>
+<table>
+  <tr>
+    <td>Test</td>
+    <td>Test</td>
+    <td>Test</td>
+  </tr>
+</table>
 
 <!--
 **jaz303/jaz303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
