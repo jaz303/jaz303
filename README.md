@@ -3,7 +3,7 @@
 <table width='100%'>
   <tr>
     <td width='33%' valign='top'>
-      <h4>Embedded Stuff</h4>
+      <h3>Embedded Stuff</h3>
       <ul>
         <li><a href='https://github.com/jaz303/sam-ba'>sam-ba</a></li>
       </ul>
