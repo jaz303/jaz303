@@ -8,6 +8,9 @@
         <li>
           <a href='https://github.com/jaz303/sam-ba'>sam-ba</a> - JavaScript bootloader client and CLI interface for Amtel MCUs (port of BOSSA).
         </li>
+        <li>
+          <a href='https://github.com/jaz303/tiny_bootloader'>tiny_bootloader</a> - simple, small, portable bootloader skeleton and client tools.
+        </li>
       </ul>
     </td>
     <td width='33%' valign='top'>
