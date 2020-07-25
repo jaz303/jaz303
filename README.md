@@ -5,7 +5,9 @@
     <td width='33%' valign='top'>
       <b>Embedded Stuff</b>
       <ul>
-        <li><a href='https://github.com/jaz303/sam-ba'>sam-ba</a></li>
+        <li>
+          <a href='https://github.com/jaz303/sam-ba'>sam-ba</a> - JavaScript bootloader client and CLI interface for Amtel MCUs (port of BOSSA).
+        </li>
       </ul>
     </td>
     <td width='33%' valign='top'>Test</td>
