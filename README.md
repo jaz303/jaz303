@@ -10,8 +10,12 @@
         </li>
       </ul>
     </td>
-    <td width='33%' valign='top'>Test</td>
-    <td width='33%' valign='top'>Test</td>
+    <td width='33%' valign='top'>
+    
+    </td>
+    <td width='33%' valign='top'>
+    
+    </td>
   </tr>
 </table>
 
