@@ -2,14 +2,14 @@
 
 <table width='100%'>
   <tr>
-    <td width='33%'>
+    <td width='33%' valign='top'>
       <h4>Embedded Stuff</h4>
       <ul>
         <li><a href='https://github.com/jaz303/sam-ba'>sam-ba</a></li>
       </ul>
     </td>
-    <td width='33%'>Test</td>
-    <td width='33%'>Test</td>
+    <td width='33%' valign='top'>Test</td>
+    <td width='33%' valign='top'>Test</td>
   </tr>
 </table>
 
