@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<table>
+<table width='100%'>
   <tr>
-    <td>Test</td>
-    <td>Test</td>
-    <td>Test</td>
+    <td width='33%'>Test</td>
+    <td width='33%'>Test</td>
+    <td width='33%'>Test</td>
   </tr>
 </table>
 
